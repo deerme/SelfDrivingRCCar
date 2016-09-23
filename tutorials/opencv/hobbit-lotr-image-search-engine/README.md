@@ -1,4 +1,4 @@
-# Tutorial Image Serach Engine from pyimagesearch.com
+# Tutorial Image Search Engine from pyimagesearch.com
 
 This script was downloaded from http://www.pyimagesearch.com/2014/01/27/hobbits-and-histograms-a-how-to-guide-to-building-your-first-image-search-engine-in-python by Adrian R.
 
